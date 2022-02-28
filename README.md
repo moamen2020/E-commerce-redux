@@ -1,4 +1,4 @@
-<h1>E-commerce react/redux</h1>
+<h1>E-commerce react-redux</h1>
 
 <h3>used languages and technology</h3>
 <p>React-js - Redux - Bootstrap - styled-components </p>
